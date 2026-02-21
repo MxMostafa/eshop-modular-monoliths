@@ -1,5 +1,7 @@
 # eshop-modular-monoliths
 Project Name: Enterprise E-Commerce Platform (Modular Monolith)
+<img width="1851" height="885" alt="image" src="https://github.com/user-attachments/assets/eedf8c2f-6e46-4cb6-b98e-797d3c35e178" />
+
 
 Description:
 Designed and developed a highly scalable e-commerce backend using .NET 8 and Modular Monolith Architecture. Unlike traditional monoliths, this solution implements Clean Architecture and Domain-Driven Design (DDD) to ensure low coupling and high cohesion between modules (Catalog, Ordering, Basket).
