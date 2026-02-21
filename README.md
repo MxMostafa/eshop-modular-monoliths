@@ -20,3 +20,5 @@ Modular Monolith: Shows you understand the trend of avoiding premature Microserv
 CQRS & MediatR: Shows you write maintainable, scalable code.
 Redis & RabbitMQ: Shows you understand distributed system concepts, even within a monolith.
 Docker: Shows you understand deployment.
+
+This project has been implemented based on the course '.NET Backend Bootcamp: Modulith, VSA, DDD, CQRS, and Outbox' by instructor Mehmet Ozkaya.
