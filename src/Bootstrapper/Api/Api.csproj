@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.1" />
+    <ProjectReference Include="..\..\Modules\Basket\Basket\Basket.csproj" />
+    <ProjectReference Include="..\..\Modules\Catalog\Catalog\Catalog.csproj" />
+    <ProjectReference Include="..\..\Modules\Ordering\Ordering\Ordering.csproj" />
   </ItemGroup>
 
 </Project>
